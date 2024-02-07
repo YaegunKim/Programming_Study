@@ -22,6 +22,7 @@ public class studentFinder {
 
     for(Student student : studentLIst){
       System.out.println("Student Name: " + student.getName() + ", Student ID: "+ student.getid());
+      
     }
 
 
